@@ -6,7 +6,6 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <unistd.h>
-ubmitted in a group with Srishti Shelke- 111603056
 
 /* sudo chmod go-r key.h
  * sudo useradd temp (check /etc/passwd)
